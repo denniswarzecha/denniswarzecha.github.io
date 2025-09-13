@@ -1,9 +1,8 @@
 source 'https://rubygems.org'
 
 group :jekyll_plugins do
-  gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
   gem 'wdm', '>= 0.1.0'
-  gem 'jekyll', '~> 4.2'
+  gem 'jekyll', '~> 3.1'
   gem 'jekyll-feed'
   gem 'jekyll-sitemap'
   gem 'jekyll-redirect-from'
@@ -12,4 +11,5 @@ group :jekyll_plugins do
 end
 
 gem 'github-pages'
+gem 'tzinfo-data', platforms: [:windows]
 gem 'connection_pool', '2.5.0'
