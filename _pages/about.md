@@ -19,7 +19,7 @@ My research aims to contribute to a deeper understanding of how social policies 
 
 My research has been recognized with several awards and competitive grants, including honors from the German Society for Gerontology and Geriatrics (DGGG), the Arbeitsgemeinschaft Sozialwissenschaftlicher Institute (ASI), and funding from the Daimler and Benz Foundation and the Minerva Stiftung.
 
-To find out more, please visit the site with my [research projects](https://denniswarzecha.github.io/research/) or [get in touch](mailto:alina.schmitz@tu-dortmund.de).
+To find out more, please visit the site with my [research projects](https://denniswarzecha.github.io/research/) or [get in touch](mailto:alina.schmitz[at]tu-dortmund.de).
 
 ## News
 
