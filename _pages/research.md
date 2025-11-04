@@ -9,7 +9,7 @@ Below you find an overview of my research interests and topics of expertise. In 
 
 ## Socioeconomic and Gender Inequalities in Health Across the Life Course
 
-[![How do socioeconomic and gendered factors shape health and well-being from midlife to old age? How do inequalities in health and well-being present across different contexts? My research examines the social and gendered determinants of health disparities and their implications for aging populations across Europe.](images/healthinequalities.png)](/research/inequalities)
+[![How do socioeconomic and gendered factors shape health and well-being from midlife to old age? How do inequalities in health and well-being present across different contexts? My research examines the social and gendered determinants of health disparities and their implications for aging populations across Europe.](/images/healthinequalities.png)](/research/inequalities)
 
 How do socioeconomic and gendered factors shape health and well-being from midlife to old age? How do inequalities in health and well-being present across different contexts? My research examines the social and gendered determinants of health disparities and their implications for aging populations across Europe.
 
