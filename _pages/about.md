@@ -23,4 +23,16 @@ To find out more, please visit the site with my [research projects](https://denn
 
 ## News
 
-coming soon
+### New Publication!
+
+Why do older men volunteer more frequently, even though women often show greater interest in doing so? Our new study finds that men are more active in volunteering, while women represent a large pool of untapped potential. Informal caregiving duties—such as caring for grandchildren or other family members—pose a significant barrier to volunteering, particularly for women. The findings contribute to ongoing discussions about civic engagement and demographic change, emphasizing the need for inclusive strategies that enable all older adults to participate in volunteering.
+
+Read the full article:
+Enabling Factors and Barriers to Volunteering (Potentials) in the Second Half of Life [https://doi.org/10.1177/08997640251374269](https://doi.org/10.1177/08997640251374269)
+
+### New Publication!
+
+How much does family background matter for your income—even decades later? A new analysis of older workers aged 50 to 65 across eight European countries, using data from the Survey of Health, Ageing and Retirement in Europe (SHARE), explores this question. The results reveal notable differences across welfare regimes. In conservative welfare systems, parental education continues to influence individuals’ income later in life. In contrast, in social-democratic welfare states, no such link was found—suggesting that social policies can help reduce the impact of family background on economic outcomes. These findings underline that inequalities in financial well-being in later life cannot be fully understood without considering intergenerational dynamics and the broader institutional contexts in which they unfold. 
+
+Read the full article: 
+Parental education and older workers’ income: A comparison of social democratic and conservative welfare regimes [https://doi.org/10.1007/s00391-025-02475-9](https://doi.org/10.1007/s00391-025-02475-9)
