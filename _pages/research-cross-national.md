@@ -5,8 +5,6 @@ permalink: /research/cross-national/
 author_profile: true
 ---
 
-## Comparative Welfare State and Cross-national Research
-
 How do welfare regimes and social policies shape inequalities in health, income, and social participation across Europe? How do institutional structures influence aging experiences and social integration? This research uses cross-national data to understand the role of policy contexts.
 
 Selected Publications:

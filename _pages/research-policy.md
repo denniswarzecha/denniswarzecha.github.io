@@ -5,8 +5,6 @@ permalink: /research/policy/
 author_profile: true
 ---
 
-## Policy Evaluations
-
 My research contributes to evidence-based policy development in the areas of social inclusion, disability policy, and care systems. I conduct and co-author evaluations and reports that assess the implementation and impact of social policies and programs in Germany. These studies focus on improving quality standards in legal guardianship, enhancing early support for families, and promoting participation and equal opportunities for people with disabilities.
 
 Selected Publications:

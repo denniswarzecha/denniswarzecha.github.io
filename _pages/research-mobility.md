@@ -5,8 +5,6 @@ permalink: /research/mobility/
 author_profile: true
 ---
 
-## Intergenerational Relations and Social Mobility
-
 What enables or hinders older adults’ social participation and connectedness? How do gender, care responsibilities, and welfare systems influence patterns of integration, volunteering, and loneliness in later life? My work explores these questions through both national and cross-national lenses.
 
 Selected Publications:

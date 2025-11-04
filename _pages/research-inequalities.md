@@ -5,8 +5,6 @@ permalink: /research/inequalities/
 author_profile: true
 ---
 
-## Socioeconomic and Gender Inequalities in Health Across the Life Course
-
 How do family relationships and intergenerational exchanges shape subjective and financial well-being in later life? What role does children’s upward educational mobility play in influencing the life satisfaction and health of their parents? This line of research connects family sociology with questions of inequality and life-course trajectories.
 
 Selected Publications:
