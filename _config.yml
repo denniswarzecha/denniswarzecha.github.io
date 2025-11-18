@@ -39,8 +39,8 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-8480-1977"
   semantic         : # URL
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Schmitz+A&cauthor_id=40728726"
-  researchgate     : # URL
+  pubmed           : #URL
+  researchgate     : "https://www.researchgate.net/profile/Alina-Schmitz"
   scopus           : # URL
 
   # Repositories and software development
